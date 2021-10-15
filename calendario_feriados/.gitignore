@@ -1,0 +1,9 @@
+*.csv
+__pycache__
+.cache
+*.log
+.exe
+.debug
+tokens.py
+*.html
+*.json
