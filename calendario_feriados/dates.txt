@@ -1,17 +1,17 @@
-2021-01-01
-2021-01-09
-2021-02-13
-2021-02-14
-2021-02-16
-2021-04-02
-2021-04-03
-2021-04-04
-2021-05-01
-2021-11-03
-2021-11-04
-2021-11-05
-2021-11-10
-2021-11-28
-2021-11-29
-2021-12-08
-2021-12-25
+2021-01-01	Año Nuevo
+2021-01-09	Día del Martir
+2021-02-13	Sábado de Carnaval
+2021-02-14	Domingo de Carnaval
+2021-02-16	Martes de Carnaval
+2021-04-02	Viernes Santo
+2021-04-03	Sábado Santo
+2021-04-04	Domingo de Pascua
+2021-05-01	Día del Trabajo
+2021-11-03	Día de la Independencia
+2021-11-04	Día de la Bandera por el Día de los Símbolos Patrios
+2021-11-05	Conmemoración Patriótica en la ciudad de Colón
+2021-11-10	Grito en la Villa de los Santos
+2021-11-28	Independencia de España
+2021-11-29	descanso laboral correspondiente a Independencia de España
+2021-12-08	Día de la Madre
+2021-12-25	Navidad

@@ -44,7 +44,7 @@ def main():
     eventsResult = (
         service.events()
         .list(
-            calendarId="en.pa#holiday@group.v.calendar.google.com",
+            calendarId="es.pa#holiday@group.v.calendar.google.com",
             timeMin=startDate,
             timeMax=endDate,
             singleEvents=True,
