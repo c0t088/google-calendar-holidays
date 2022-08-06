@@ -7,3 +7,4 @@ __pycache__
 tokens.py
 *.html
 *.json
+*.txt

@@ -7,7 +7,7 @@ Implementación simple para obtener el calendario de días feriados desde en API
 Es necesario configurar python para conectarse con el API de Google
 
 https://developers.google.com/docs/api/quickstart/python
-
+ 
 Se deben guardar los archivos con las credenciales necesarias:
 
 - credentials.json - archivo proporcionado por Google para validar las credenciales por primera vez
