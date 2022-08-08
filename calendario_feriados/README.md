@@ -1,4 +1,4 @@
-## calendario_feriados
+## google-calendar-holidays
 
 Simple implementation to retrieve Panamanian holidays from Google Calendar API
 
