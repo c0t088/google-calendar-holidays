@@ -21,3 +21,7 @@ Connects to Google Calendar API and retrieve panamanian holiday dates for the cu
 ### extract.py
 
 Extracts dates from **holidays.json** and saves them as **dates.txt**
+
+## License
+
+MIT License
