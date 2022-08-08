@@ -2,7 +2,7 @@
 
 Simple implementation to retrieve Panamanian holidays from Google Calendar API
 
-## Configuración
+## Configuration
 
 Refer to this website for the necessary **python** configurations for Google Calendar API
 
