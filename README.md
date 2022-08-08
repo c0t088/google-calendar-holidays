@@ -16,7 +16,7 @@ Once all necessary configurations are done, credentials must be stored as:
 
 ### holidays.py
 
-Connects to Google Calendar API and retrieve panamanian holiday dates for the current year and saves it to **holidays.json**
+Connects to Google Calendar API and retrieve panamanian holiday dates for the current year and saves it to **holidays.json**. This module contains a slightly modified version  of **quick start.py**, found on Google API Documentation Python Quickstart (https://developers.google.com/docs/api/quickstart/python)
 
 ### extract.py
 
