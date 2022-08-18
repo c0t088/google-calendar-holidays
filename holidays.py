@@ -15,6 +15,7 @@ TOKEN_FILE = CURR_DIR + "token.json"
 CREDS_FILE = CURR_DIR + "credentials.json"
 JSON_OUT_FILE = CURR_DIR + "holidays.json"
 
+
 def main():
     """Shows basic usage of the Google Calendar API.
     Prints the start and name of the next 10 events on the user's calendar.
